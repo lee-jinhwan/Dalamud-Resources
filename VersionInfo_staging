@@ -1,0 +1,9 @@
+{
+    "AssemblyVersion": "9.0.0.5",
+    "SupportedGameVer": "2023.09.08.0000.0000",
+    "DownloadUrl": "https://github.com/lee-jinhwan/Dalamud-KR/releases/download/9.0.0.5/dalamud.zip",
+    "RuntimeVersion": "7.0.0",
+    "RuntimeRequired": true,
+    "Key": "9",
+    "Hash": null
+}
