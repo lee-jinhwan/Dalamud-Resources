@@ -1,7 +1,7 @@
 {
-    "version": "1.0.6.1",
-    "downloadurl": "https://github.com/lee-jinhwan/Dalamud.Updater-KR/releases/download/1.0.6.1/Dalamud.Updater.zip",
-    "hash": "676FF2B56B52031EDACD2D2894F3D5C8",
+    "version": "1.0.6.2",
+    "downloadurl": "https://github.com/lee-jinhwan/Dalamud.Updater-KR/releases/download/1.0.6.2/Dalamud.Updater.zip",
+    "hash": "5C85FC42D7790FD460B19C8E0A61BC34",
     "changelog": "",
     "config": {
         "SafeMode": false
